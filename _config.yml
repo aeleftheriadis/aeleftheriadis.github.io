@@ -1,8 +1,8 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: http://taylantatli.me/Halve
-logo: halve.png                                       # Site logo
+title: Aeleftheriadis
+description: Web Developer's Blog
+url: https://aeleftheriadis.github.io/
+logo: aeleftheriadis.png                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -29,12 +29,12 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
+email:              athanasios.eleftheriadis@gmail.com
+google.plus:        athanasios.eleftheriadis@gmail.com
 twitter:            username
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             aeleftheriadis
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
