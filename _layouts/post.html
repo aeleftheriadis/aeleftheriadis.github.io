@@ -37,11 +37,12 @@ comments: true
       <div class="inner-post content">
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
-        <br>        
+        <br>
+        {% include share.html %}
+        <br>
         {% if page.comments %}
           {% include disqus.html %}
         {% endif %}
-        {% include share.html %}
         {% include page-pagination.html %}
       </div>
     </div>
