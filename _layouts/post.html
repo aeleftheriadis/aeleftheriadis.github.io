@@ -1,5 +1,6 @@
 ---
 layout: compress
+comments: true
 ---
 
 <!DOCTYPE html>
@@ -36,7 +37,10 @@ layout: compress
       <div class="inner-post content">
         <div class="date-highlight">{% if page.date %}{{ page.date | date: '%d %b %Y' }}{% else %}&#x2756;{% endif %}</div>
         {{ content }}
-        <br>
+        <br>        
+        {% if page.comments %}
+          {% include disqus.html %}
+        {% endif %}
         {% include share.html %}
         {% include page-pagination.html %}
       </div>
