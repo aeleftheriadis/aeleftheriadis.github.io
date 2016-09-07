@@ -10,4 +10,4 @@ tags:
 ---
 
 ## Design Patterns
-1. [React Patters](http://reactpatterns.com/)
+1. [React Patters](http://reactpatterns.com/){:target="_blank"}
