@@ -6,7 +6,8 @@ comments: true
 categories:
   - React.js
 tags: 
-  - react.js,js
+  - react.js
+  - js
 ---
 
 ## Design Patterns
