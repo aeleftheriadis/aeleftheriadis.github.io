@@ -20,7 +20,7 @@ tags:
 ## API / Angular 2
 1. [ASP.NET Core1.0 Insert/Select to Database Using Angular2 and WEB API](http://www.codeproject.com/Articles/1116918/ASP-NET-Core-Insert-Select-to-Database-Using-Angul){:target="_blank"}
 
-##MVC
+## MVC
 1. [ASP.NET Core - Feature Slices for ASP.NET Core MVC](https://msdn.microsoft.com/magazine/mt763233?MC=ASPNET&MC=WebDev){:target="_blank"}
 2.[ASP.NET Core - Real-World ASP.NET Core MVC Filters](https://msdn.microsoft.com/magazine/mt767699?MC=ASPNET&MC=.NET){:target="_blank"}
 
