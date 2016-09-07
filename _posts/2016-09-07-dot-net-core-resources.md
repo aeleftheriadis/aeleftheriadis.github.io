@@ -24,6 +24,10 @@ tags:
 1. [ASP.NET Core - Feature Slices for ASP.NET Core MVC](https://msdn.microsoft.com/magazine/mt763233?MC=ASPNET&MC=WebDev){:target="_blank"}
 2. [ASP.NET Core - Real-World ASP.NET Core MVC Filters](https://msdn.microsoft.com/magazine/mt767699?MC=ASPNET&MC=.NET){:target="_blank"}
 
+## Tutorials
+1. [Introduction to the .NET Core SDK](https://github.com/shanselman/aspnetcore-workshop/blob/master/Labs/1.%20Introduction%20to%20the%20.NET%20Core%20SDK.md){:target="_blank"}
+2. [Introduction to ASP.NET Core 1.0 @Microsoft Build 2016](https://github.com/Microsoft-Build-2016/CodeLabs-WebDev/tree/master/Module1-IntroToAspNetCore){:target="_blank"}
+
 ## Command Line
 1. [Essential .NET - Command-Line Processing with .NET Core 1.0](https://msdn.microsoft.com/magazine/mt763239?MC=JavaScript&MC=WebDev&MC=.NET){:target="_blank"}
  
