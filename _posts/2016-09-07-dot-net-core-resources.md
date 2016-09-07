@@ -22,7 +22,7 @@ tags:
 
 ## MVC
 1. [ASP.NET Core - Feature Slices for ASP.NET Core MVC](https://msdn.microsoft.com/magazine/mt763233?MC=ASPNET&MC=WebDev){:target="_blank"}
-2.[ASP.NET Core - Real-World ASP.NET Core MVC Filters](https://msdn.microsoft.com/magazine/mt767699?MC=ASPNET&MC=.NET){:target="_blank"}
+2. [ASP.NET Core - Real-World ASP.NET Core MVC Filters](https://msdn.microsoft.com/magazine/mt767699?MC=ASPNET&MC=.NET){:target="_blank"}
 
 ## Command Line
 1. [Essential .NET - Command-Line Processing with .NET Core 1.0](https://msdn.microsoft.com/magazine/mt763239?MC=JavaScript&MC=WebDev&MC=.NET){:target="_blank"}
