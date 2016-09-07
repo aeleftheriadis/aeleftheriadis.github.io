@@ -6,7 +6,8 @@ comments: true
 categories:
   - Node.js
 tags: 
-  - Node.js, js
+  - Node.js
+  - js
 ---
 
 ## API
