@@ -27,6 +27,7 @@ tags:
 
 ## EF
 1. [Using ASP.NET Core, Entity Framework Core and ASP.NET Boilerplate to Create NLayered Web Application (Part II)](http://www.codeproject.com/Articles/1117216/Using-ASP-NET-Core-Entity-Framework-Core-and-ASP#ArticleTaskCreateServiceTest){:target="_blank"} [Code @Github](https://github.com/aspnetboilerplate/aspnetboilerplate-samples/tree/master/SimpleTaskSystem-Core){:target="_blank"}
+2. [ASP.NET Core - Write Apps with Visual Studio Code and Entity Framework](https://msdn.microsoft.com/magazine/mt767698?MC=ASPNET&MC=Vstudio&MC=Open&f=255&MSPPError=-2147217396){:target="_blank"}
 
 ## Tutorials
 1. [Introduction to the .NET Core SDK](https://github.com/shanselman/aspnetcore-workshop/blob/master/Labs/1.%20Introduction%20to%20the%20.NET%20Core%20SDK.md){:target="_blank"}
