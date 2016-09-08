@@ -16,10 +16,14 @@ tags:
   - mvc
   - filters
   - entity framework
+  - reactjs
 ---
 
 ## API / Angular 2
 1. [ASP.NET Core1.0 Insert/Select to Database Using Angular2 and WEB API](http://www.codeproject.com/Articles/1116918/ASP-NET-Core-Insert-Select-to-Database-Using-Angul){:target="_blank"}
+
+## API / React.js
+1. [How to Use React with Visual Studio and ASP.NET Web API](https://blog.pusher.com/how-to-use-react-with-visual-studio-and-asp-net-web-api/){:target="_blank"}
 
 ## MVC
 1. [ASP.NET Core - Feature Slices for ASP.NET Core MVC](https://msdn.microsoft.com/magazine/mt763233?MC=ASPNET&MC=WebDev){:target="_blank"}
