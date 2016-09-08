@@ -38,3 +38,6 @@ tags:
  
 ## C#7
 1. [What’s New in C# 7.0](https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/?MC=CSHARP&MC=.NET){:target="_blank"}
+
+## Online Lessons
+1. [Code School](http://campus.codeschool.com/courses/forging-ahead-with-asp-net-core/contents){:target="_blank"}
