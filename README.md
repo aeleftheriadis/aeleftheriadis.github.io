@@ -19,3 +19,6 @@ See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitH
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 - [FitVids.JS](http://fitvidsjs.com/)
 - Disqus comments
+
+## TODO
+1. Add Mailchimp form
