@@ -9,7 +9,12 @@ tags:
   - .net
   - websockets
   - signalr
+  - ef6
+  - mvc5
 ---
+
+## EF6 / MVC5
+1. [Getting Started with Entity Framework 6 Code First using MVC 5](http://www.asp.net/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application){:target="_blank"}
 
 ## WebSocket
 1. [WebSocket Server in C#](http://www.codeproject.com/Articles/1063910/WebSocket-Server-in-Csharp){:target="_blank"}
