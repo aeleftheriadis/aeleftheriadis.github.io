@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Electron.js Resources"
+title: "Electron Resources"
 excerpt: "Electron usefull resources"
 comments: true
 categories:
