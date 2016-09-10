@@ -4,9 +4,10 @@ title: "Electron.js Resources"
 excerpt: "Electron usefull resources"
 comments: true
 categories:
-  - Electron.js
+  - Electron
 tags: 
-  - electron.js
+  - electron
+  - javascript
   - js
 ---
 
