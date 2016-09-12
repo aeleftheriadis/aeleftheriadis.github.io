@@ -626,7 +626,7 @@ canvas {
     a {
       color: $blue;
       &:hover {
-        color: #4dbe7a;
+        color: lighten($blue,10);
       }
     }
     em {
