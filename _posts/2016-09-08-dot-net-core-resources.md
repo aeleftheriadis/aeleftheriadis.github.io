@@ -45,3 +45,7 @@ tags:
 
 ## Online Lessons
 1. [Code School](http://campus.codeschool.com/courses/forging-ahead-with-asp-net-core/contents){:target="_blank"}
+
+## Packages
+1. [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core){:target="_blank"}
+
