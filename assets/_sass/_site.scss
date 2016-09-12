@@ -564,7 +564,7 @@ canvas {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    color: darken($blue,30);
+    color: lighten($blue,10);
     border-bottom: 1px dotted $blue;
   }
   ul,
