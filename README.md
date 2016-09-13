@@ -22,3 +22,6 @@ See a [live version of Halve](http://taylantatli.github.io/Halve) hosted on GitH
 
 ## TODO
 1. Add Mailchimp form
+2. Add Contact form
+3. Add About me page
+4. Add projects page
