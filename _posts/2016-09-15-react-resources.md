@@ -8,6 +8,7 @@ categories:
 tags: 
   - react.js
   - js
+  - react router
 ---
 
 ## Design Patterns
@@ -16,3 +17,4 @@ tags:
 ## Packages
 1. [React Refetch](https://github.com/heroku/react-refetch){:target="_blank"} A simple, declarative, and composable way to fetch data for React components.
 2. [React Helmet](https://github.com/nfl/react-helmet){:target="_blank"} This reusable React component will manage all of your changes to the document head with support for document title, meta, link, script, and base tags.
+3. [React Router](https://github.com/ReactTraining/react-router/tree/v4){:target="_blank"} V4 includes new awesome features
