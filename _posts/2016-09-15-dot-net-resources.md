@@ -13,6 +13,8 @@ tags:
   - mvc5
   - elmah
   - logging
+  - cqrs/es+
+  - redis
 ---
 
 ## EF6 / MVC5
@@ -33,5 +35,7 @@ tags:
 ## Logging
 1. [Logging Error Details with ELMAH](http://www.asp.net/web-forms/overview/older-versions-getting-started/deploying-web-site-projects/logging-error-details-with-elmah-cs){:target="_blank"}
 
+## CQRS/ES
+1. [Real-World CQRS/ES with ASP.NET and Redis Part 4 - Creating the APIs](https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-4-creating-the-apis/){:target="_blank"}
 
 
