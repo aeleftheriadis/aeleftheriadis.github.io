@@ -11,6 +11,8 @@ tags:
   - ngrx
   - redux
   - material design
+  - di
+  - router
 ---
 
 ## Redux
@@ -22,6 +24,11 @@ tags:
 
 ## Material Design
 1. [Using Material Design in Angular 2](https://medium.com/codingthesmartway-com-blog/using-material-design-in-angular-2-83a3128c58b7#.kc0zpaumj){:target="_blank"}
+
+## Free Online Videos
+1. [Building Angular 2 Components](https://egghead.io/courses/building-angular-2-components?utm_source=drip){:target="_blank"}
+2. [Angular 2 Dependency Injection (DI) Explained](https://egghead.io/courses/angular-2-dependency-injection-di-explained){:target="_blank"}
+3. [Intro to Angular 2 Router](https://egghead.io/courses/intro-to-angular-2-router){:target="_blank"}
 
  
 
