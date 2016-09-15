@@ -9,10 +9,15 @@ tags:
   - react.js
   - js
   - react router
+  - redux-saga
+  - testing
 ---
 
 ## Design Patterns
 1. [React Patters](http://reactpatterns.com/){:target="_blank"}
+
+## Articles
+1. [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/){:target="_blank"}
 
 ## Packages
 1. [React Refetch](https://github.com/heroku/react-refetch){:target="_blank"} A simple, declarative, and composable way to fetch data for React components.
