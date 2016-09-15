@@ -10,6 +10,7 @@ tags:
   - javascript
   - rxjs
   - functional
+  - es6
 ---
 
 ## Functional Js Tutorials
@@ -20,3 +21,6 @@ tags:
 
 ## Functional Free Ebooks
 1. [Most Adequate Guide in Functional Javascript](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details){:target="_blank"}
+
+## ES6 Free Ebooks
+1. [Exploring ES6](http://exploringjs.com/es6/){:target="_blank"}
