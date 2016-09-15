@@ -9,7 +9,7 @@ tags:
   - react.js
   - js
   - react router
-  - redux-saga
+  - redux saga
   - testing
 ---
 
