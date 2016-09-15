@@ -11,6 +11,7 @@ tags:
   - rxjs
   - functional
   - es6
+  - style guide
 ---
 
 ## Functional Js Tutorials
@@ -24,3 +25,7 @@ tags:
 
 ## ES6 Free Ebooks
 1. [Exploring ES6](http://exploringjs.com/es6/){:target="_blank"}
+
+## Style Guide
+1. [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript){:target="_blank"}
+
