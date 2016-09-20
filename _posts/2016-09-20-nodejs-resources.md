@@ -8,6 +8,8 @@ categories:
 tags: 
   - node.js
   - js
+  - env
+  - dotenv
 ---
 
 ## API
@@ -20,3 +22,4 @@ tags:
 
 ## Packages
 1. [Nativefier (Wrap any web page natively without even thinking, across Windows, OSX and Linux)](https://github.com/jiahaog/nativefier){:target="_blank"}
+2. [dotenv](https://www.npmjs.com/package/dotenv)Loads environment variables from .env file
