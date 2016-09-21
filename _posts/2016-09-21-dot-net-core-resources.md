@@ -19,6 +19,7 @@ tags:
   - reactjs
   - caching
   - mvc6
+  - view components
 ---
 
 ## API / Angular 2
@@ -47,6 +48,10 @@ tags:
  
 ## C#7
 1. [What’s New in C# 7.0](https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/?MC=CSHARP&MC=.NET){:target="_blank"}
+
+## View Components
+1. [Getting Lookup Data Into You View ASP.net MVC 6 Version](http://blog.simontimms.com/2015/06/09/getting-lookup-data-into-you-view/){:target="_blank"}
+2. [View Components](https://docs.asp.net/en/latest/mvc/views/view-components.html){:target="_blank"}
 
 ## Online Lessons
 1. [Code School](http://campus.codeschool.com/courses/forging-ahead-with-asp-net-core/contents){:target="_blank"}
