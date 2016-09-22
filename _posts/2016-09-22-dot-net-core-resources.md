@@ -20,6 +20,10 @@ tags:
   - caching
   - mvc6
   - view components
+  - hosting
+  - linux
+  - nginx
+  - haproxy
 ---
 
 ## API / Angular 2
@@ -58,4 +62,9 @@ tags:
 
 ## Packages
 1. [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core){:target="_blank"}
+ 
+## Linux Hosting
+1. [Publish to a Linux Production Environment](https://docs.asp.net/en/latest/publishing/linuxproduction.html){:target="_blank"}
+2. [ASP.Net Core, on Ubuntu — Performance, C#, MVC, NGINX, and Fun](https://medium.com/@BKSRacer930/asp-net-core-on-ubuntu-performance-c-mvc-nginx-and-fun-f84d8b9cbd02#.ryp3dnrht){:target="_blank"}
+3. [Legion of Heroes: haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](http://tattoocoder.com/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/){:target="_blank"}
 
