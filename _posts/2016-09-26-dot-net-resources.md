@@ -15,6 +15,7 @@ tags:
   - logging
   - cqrs/es+
   - redis
+  - servicestack
 ---
 
 ## EF6 / MVC5
@@ -44,4 +45,6 @@ tags:
 2. [ASP.NET MVC Application with a Custom Layout](https://code.msdn.microsoft.com/ASPNET-MVC-Application-b4b0dc3f){:target="_blank"} Uses AdminLTE layout
 3. [The ASP.NET Core 1.0 (ASP.NET 5) application sample, Real-Time Data Editing](https://code.msdn.microsoft.com/The-ASPNET-vNext-Real-Time-b1d27fe4){:target="_blank"}
 
+## Packages
+1. [ServiceStack](https://servicestack.net/){:target="_blank"}
 
