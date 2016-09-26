@@ -38,4 +38,9 @@ tags:
 ## CQRS/ES
 1. [Real-World CQRS/ES with ASP.NET and Redis Part 4 - Creating the APIs](https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-4-creating-the-apis/){:target="_blank"}
 
+## Code Samples
+1. [ASP.NET MVC Application Using Entity Framework Code First](https://code.msdn.microsoft.com/ASPNET-MVC-Application-b01a9fe8?SRC=VSIDE){:target="_blank"}
+2. [ASP.NET MVC Application with a Custom Layout](https://code.msdn.microsoft.com/ASPNET-MVC-Application-b4b0dc3f){:target="_blank"} Uses AdminLTE layout
+3. [The ASP.NET Core 1.0 (ASP.NET 5) application sample, Real-Time Data Editing](https://code.msdn.microsoft.com/The-ASPNET-vNext-Real-Time-b1d27fe4){:target="_blank"}
+
 
