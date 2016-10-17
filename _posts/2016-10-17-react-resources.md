@@ -11,6 +11,7 @@ tags:
   - react router
   - redux saga
   - testing
+  - redux
 ---
 
 ## Design Patterns
@@ -23,3 +24,7 @@ tags:
 1. [React Refetch](https://github.com/heroku/react-refetch){:target="_blank"} A simple, declarative, and composable way to fetch data for React components.
 2. [React Helmet](https://github.com/nfl/react-helmet){:target="_blank"} This reusable React component will manage all of your changes to the document head with support for document title, meta, link, script, and base tags.
 3. [React Router](https://github.com/ReactTraining/react-router/tree/v4){:target="_blank"} V4 includes new awesome features
+
+## Redux
+1. [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.6dvpkfb9l){:target="_blank"}
+
