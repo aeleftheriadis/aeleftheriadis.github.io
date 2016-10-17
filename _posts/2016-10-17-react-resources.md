@@ -21,6 +21,7 @@ tags:
 ## Articles
 1. [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/){:target="_blank"}
 2. [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.hplkljsan){:target="_blank"}
+3. [Awesome Redux](https://github.com/xgrommx/awesome-redux){:target="_blank"}
 
 ## Packages
 1. [React Refetch](https://github.com/heroku/react-refetch){:target="_blank"} A simple, declarative, and composable way to fetch data for React components.
@@ -29,11 +30,12 @@ tags:
 4. [seamless-immutable](https://github.com/rtfeldman/seamless-immutable){:target="_blank"}
 5. [redux-thunk](https://www.npmjs.com/package/redux-thunk){:target="_blank"}
 6. [react-redux](https://www.npmjs.com/package/react-redux){:target="_blank"}
-7. 
 
 ## Redux
 1. [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.6dvpkfb9l){:target="_blank"}
+2. [Redux Real World Example](https://github.com/reactjs/redux/tree/master/examples/real-world){:target="_blank"}
+3. [Redux TodoMVC Example](https://github.com/reactjs/redux/tree/master/examples/todomvc){:target="_blank"}
 
-## Code Boilerplate
+## Boilerplate / Samples
 1. [ real-life example of a React project with focus on dataflow management](https://github.com/wix/react-dataflow-example){:target="_blank"}
 
