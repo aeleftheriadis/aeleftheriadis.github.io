@@ -16,6 +16,7 @@ tags:
   - cqrs/es+
   - redis
   - servicestack
+  - sso
 ---
 
 ## EF6 / MVC5
@@ -39,6 +40,9 @@ tags:
 
 ## CQRS/ES
 1. [Real-World CQRS/ES with ASP.NET and Redis Part 4 - Creating the APIs](https://www.exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-4-creating-the-apis/){:target="_blank"}
+
+## SSO
+1. [Implementation of Single Sign On (SSO) in ASP.NET MVC](http://www.codeproject.com/Articles/1140228/Implementation-of-Single-Sign-On-SSO-in-ASP-NET-MV){:target="_blank"}
 
 ## Code Samples
 1. [ASP.NET MVC Application Using Entity Framework Code First](https://code.msdn.microsoft.com/ASPNET-MVC-Application-b01a9fe8?SRC=VSIDE){:target="_blank"}
