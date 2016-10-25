@@ -24,6 +24,9 @@ tags:
 ## Functional Free Ebooks
 1. [Most Adequate Guide in Functional Javascript](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details){:target="_blank"}
 
+## ES6
+1. [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/){:target="_blank"}
+
 ## Testing
 1. [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/){:target="_blank"}
 
