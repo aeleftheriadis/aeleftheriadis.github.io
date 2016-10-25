@@ -12,6 +12,7 @@ tags:
   - functional
   - es6
   - style guide
+  - testing
 ---
 
 ## Functional Js Tutorials
@@ -22,6 +23,9 @@ tags:
 
 ## Functional Free Ebooks
 1. [Most Adequate Guide in Functional Javascript](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details){:target="_blank"}
+
+## Testing
+1. [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/){:target="_blank"}
 
 ## ES6 Free Ebooks
 1. [Exploring ES6](http://exploringjs.com/es6/){:target="_blank"}

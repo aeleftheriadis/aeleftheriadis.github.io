@@ -24,6 +24,8 @@ tags:
   - linux
   - nginx
   - haproxy
+  - deployment
+  - apache
 ---
 
 ## API / Angular 2
@@ -68,3 +70,5 @@ tags:
 2. [ASP.Net Core, on Ubuntu — Performance, C#, MVC, NGINX, and Fun](https://medium.com/@BKSRacer930/asp-net-core-on-ubuntu-performance-c-mvc-nginx-and-fun-f84d8b9cbd02#.ryp3dnrht){:target="_blank"}
 3. [Legion of Heroes: haproxy, nginx, Angular 2, ASP.NET Core, Redis and Docker](http://tattoocoder.com/legion-of-heroes-haproxy-nginx-angular2-aspnetcore-redis-docker/){:target="_blank"}
 
+## deployment
+1. [Deploy ASP .Net Core Web Applications on Ubuntu Linux (AWS EC2 behind Apache Server)](http://www.codeproject.com/Articles/1137493/Deploy-ASP-Net-Core-Web-Applications-on-Ubuntu-Lin){:target="_blank"}
