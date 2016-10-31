@@ -33,6 +33,10 @@ tags:
 
 ## ES6 Free Ebooks
 1. [Exploring ES6](http://exploringjs.com/es6/){:target="_blank"}
+2. [Practical ES6](https://ponyfoo.com/books/practical-es6/chapters#toc){:target="_blank"}
+
+## ES6 Guide
+1. [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch){:target="_blank"}
 
 ## Style Guide
 1. [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript){:target="_blank"}
