@@ -13,6 +13,8 @@ tags:
   - testing
   - redux
   - immutable
+  - universal apps
+  - server side
 ---
 
 ## Design Patterns
@@ -31,7 +33,8 @@ tags:
 4. [seamless-immutable](https://github.com/rtfeldman/seamless-immutable){:target="_blank"}
 5. [redux-thunk](https://www.npmjs.com/package/redux-thunk){:target="_blank"}
 6. [react-redux](https://www.npmjs.com/package/react-redux){:target="_blank"}
-7. [nwb](https://github.com/insin/nwb){:target="_blank"}Create React apps, components, libraries and other npm modules for use on the web with no configuration (until you need it)
+7. [nwb](https://github.com/insin/nwb){:target="_blank"} Create React apps, components, libraries and other npm modules for use on the web with no configuration (until you need it)
+8. [Next.js](https://zeit.co/blog/next){:target="_blank"} A small framework for server-rendered universal JavaScript webapps, built on top of React, Webpack and Babel
 
 ## Redux
 1. [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.6dvpkfb9l){:target="_blank"}
