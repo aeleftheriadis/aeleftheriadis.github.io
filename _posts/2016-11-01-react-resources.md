@@ -22,6 +22,7 @@ tags:
 1. [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/){:target="_blank"}
 2. [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.hplkljsan){:target="_blank"}
 3. [Awesome Redux](https://github.com/xgrommx/awesome-redux){:target="_blank"}
+4. [Elegant Form Validation Using React](https://spin.atomicobject.com/2016/10/05/form-validation-react/){:target="_blank"}
 
 ## Packages
 1. [React Refetch](https://github.com/heroku/react-refetch){:target="_blank"} A simple, declarative, and composable way to fetch data for React components.
@@ -42,3 +43,7 @@ tags:
 
 ## Tools
 1. [React UI Components](https://github.com/facebook/react/wiki/Complementary-Tools#ui-components){:target="_blank"}
+
+## Guide
+1. [React FAQ](https://github.com/timarney/react-faq){:target="_blank"}
+

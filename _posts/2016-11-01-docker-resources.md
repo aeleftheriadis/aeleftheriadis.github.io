@@ -27,3 +27,6 @@ tags:
 1. [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/){:target="_blank"}
 2. [Top 5 Docker Questions From Microsoft Ignite](https://blog.docker.com/2016/10/docker-on-windows/){:target="_blank"}
 3. [Run native .NET application in Docker (.NET Framework 4.6.2)](http://vunvulearadu.blogspot.gr/2016/10/run-native-net-application-in-docker.html){:target="_blank"}
+
+## Architecture
+1. [Docker Reference Architecture: Designing Scalable, Portable Docker Container Networks](https://success.docker.com/Datacenter/Apply/Docker_Reference_Architecture%3A_Designing_Scalable%2C_Portable_Docker_Container_Networks){:target="_blank"}
