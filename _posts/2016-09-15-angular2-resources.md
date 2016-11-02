@@ -13,6 +13,7 @@ tags:
   - material design
   - di
   - router
+  - webpack
 ---
 
 ## Redux
@@ -30,5 +31,7 @@ tags:
 2. [Angular 2 Dependency Injection (DI) Explained](https://egghead.io/courses/angular-2-dependency-injection-di-explained){:target="_blank"}
 3. [Intro to Angular 2 Router](https://egghead.io/courses/intro-to-angular-2-router){:target="_blank"}
 
- 
+## Packages
+1. [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter){:target="_blank"}
+2. [Angular Seed](https://github.com/mgechev/angular-seed){:target="_blank"}
 
