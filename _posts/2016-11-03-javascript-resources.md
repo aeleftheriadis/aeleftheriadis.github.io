@@ -40,4 +40,5 @@ tags:
 
 ## Style Guide
 1. [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript){:target="_blank"}
+2. [JavaScript Standard Style Guide](https://github.com/feross/standard){:target="_blank"}
 
