@@ -13,6 +13,8 @@ tags:
   - es6
   - style guide
   - testing
+  - async
+  - es7  
 ---
 
 ## Functional Js Tutorials
@@ -27,6 +29,9 @@ tags:
 ## ES6
 1. [Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+)](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/){:target="_blank"}
 2. [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html){:target="_blank"}
+
+## Async
+1. [Tips for using async functions (ES2017)](http://www.2ality.com/2016/10/async-function-tips.html){:target="_blank"}
 
 ## Testing
 1. [JavaScript Testing: Unit vs Functional vs Integration Tests](https://www.sitepoint.com/javascript-testing-unit-functional-integration/){:target="_blank"}

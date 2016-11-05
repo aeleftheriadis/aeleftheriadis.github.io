@@ -17,6 +17,7 @@ tags:
   - redis
   - servicestack
   - sso
+  - oauth2
 ---
 
 ## EF6 / MVC5
@@ -51,4 +52,5 @@ tags:
 
 ## Packages
 1. [ServiceStack](https://servicestack.net/){:target="_blank"}
+2. [IdentityServer](https://identityserver.io/){:target="_blank"} Open Source OpenID Connect and OAuth 2.0 framework for .NET
 

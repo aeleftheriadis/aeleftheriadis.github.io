@@ -40,6 +40,7 @@ tags:
 1. [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.6dvpkfb9l){:target="_blank"}
 2. [Redux Real World Example](https://github.com/reactjs/redux/tree/master/examples/real-world){:target="_blank"}
 3. [Redux TodoMVC Example](https://github.com/reactjs/redux/tree/master/examples/todomvc){:target="_blank"}
+4. [Egghead.io Redux Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes){:target="_blank"}
 
 ## Boilerplate / Samples
 1. [real-life example of a React project with focus on dataflow management](https://github.com/wix/react-dataflow-example){:target="_blank"}
