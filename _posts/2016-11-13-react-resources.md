@@ -41,6 +41,7 @@ tags:
 2. [Redux Real World Example](https://github.com/reactjs/redux/tree/master/examples/real-world){:target="_blank"}
 3. [Redux TodoMVC Example](https://github.com/reactjs/redux/tree/master/examples/todomvc){:target="_blank"}
 4. [Egghead.io Redux Course Notes](https://github.com/tayiorbeii/egghead.io_redux_course_notes){:target="_blank"}
+5. [React/Redux Links](https://github.com/markerikson/react-redux-links){:target="_blank"} Curated tutorial and resource links
 
 ## Boilerplate / Samples
 1. [real-life example of a React project with focus on dataflow management](https://github.com/wix/react-dataflow-example){:target="_blank"}
