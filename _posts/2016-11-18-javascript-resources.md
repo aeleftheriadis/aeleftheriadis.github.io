@@ -47,3 +47,6 @@ tags:
 1. [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript){:target="_blank"}
 2. [JavaScript Standard Style Guide](https://github.com/feross/standard){:target="_blank"}
 
+## Packages
+1. [splittable](https://www.npmjs.com/package/splittable){:target="_blank"} Module Bundler
+2. [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions){:target="_blank"} JavaScript Regular Expressions made easy

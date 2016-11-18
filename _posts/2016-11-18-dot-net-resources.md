@@ -53,4 +53,5 @@ tags:
 ## Packages
 1. [ServiceStack](https://servicestack.net/){:target="_blank"}
 2. [IdentityServer](https://identityserver.io/){:target="_blank"} Open Source OpenID Connect and OAuth 2.0 framework for .NET
+3. [CSharpVerbalExpressions](https://github.com/VerbalExpressions/CSharpVerbalExpressions) CSharp Regular Expressions made easy
 
