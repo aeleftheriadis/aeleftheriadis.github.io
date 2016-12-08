@@ -50,3 +50,4 @@ tags:
 ## Packages
 1. [splittable](https://www.npmjs.com/package/splittable){:target="_blank"} Module Bundler
 2. [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions){:target="_blank"} JavaScript Regular Expressions made easy
+3. [date-fns](https://date-fns.org/){:target="_blank"} Modern JavaScript date utility library
