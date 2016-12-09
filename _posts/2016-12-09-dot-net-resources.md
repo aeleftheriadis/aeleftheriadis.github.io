@@ -18,6 +18,8 @@ tags:
   - servicestack
   - sso
   - oauth2
+  - microservices
+  - api
 ---
 
 ## EF6 / MVC5
@@ -44,6 +46,9 @@ tags:
 
 ## SSO
 1. [Implementation of Single Sign On (SSO) in ASP.NET MVC](http://www.codeproject.com/Articles/1140228/Implementation-of-Single-Sign-On-SSO-in-ASP-NET-MV){:target="_blank"}
+
+## Microservices
+1. [Microservices with minimum overhead using ASP.NET Web API and Azure – part 1 – Architecture](https://www.future-processing.pl/blog/microservices-with-web-api-and-azure-architecture/){:target="_blank"}
 
 ## Code Samples
 1. [ASP.NET MVC Application Using Entity Framework Code First](https://code.msdn.microsoft.com/ASPNET-MVC-Application-b01a9fe8?SRC=VSIDE){:target="_blank"}
