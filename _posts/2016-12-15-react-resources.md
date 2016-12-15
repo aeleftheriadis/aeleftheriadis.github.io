@@ -16,6 +16,8 @@ tags:
   - universal apps
   - server side
   - jest
+  - yarn
+  - webpack
 ---
 
 ## Design Patterns
@@ -24,9 +26,10 @@ tags:
 ## Articles
 1. [How To Scale React Applications](https://www.smashingmagazine.com/2016/09/how-to-scale-react-applications/){:target="_blank"}
 2. [Avoiding Accidental Complexity When Structuring Your App State](https://hackernoon.com/avoiding-accidental-complexity-when-structuring-your-app-state-6e6d22ad5e2a#.hplkljsan){:target="_blank"}
-3. [Awesome Redux](https://github.com/xgrommx/awesome-redux){:target="_blank"}
-4. [Elegant Form Validation Using React](https://spin.atomicobject.com/2016/10/05/form-validation-react/){:target="_blank"}
-5. [The Provider and Higher-Order Component patterns with React](https://medium.com/@bloodyowl/the-provider-and-higher-order-component-patterns-with-react-d16ab2d1636#.9ig9q4jfs){:target="_blank"}
+3. [Elegant Form Validation Using React](https://spin.atomicobject.com/2016/10/05/form-validation-react/){:target="_blank"}
+4. [The Provider and Higher-Order Component patterns with React](https://medium.com/@bloodyowl/the-provider-and-higher-order-component-patterns-with-react-d16ab2d1636#.9ig9q4jfs){:target="_blank"}
+5. [The Inner Workings Of Virtual DOM](https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf#.hk6gw2y9j){:target="_blank"}
+6. [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a#.4wzf76yve){:target="_blank"}
 
 ## Packages
 1. [React Refetch](https://github.com/heroku/react-refetch){:target="_blank"} A simple, declarative, and composable way to fetch data for React components.
@@ -53,6 +56,7 @@ tags:
 9. [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links){:target="_blank"}
 10. [Rules For Structuring (Redux) Applications](http://jaysoo.ca/2016/02/28/organizing-redux-application/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured){:target="_blank"}
 11. [A Practical Guide to Redux](http://lorenstewart.me/2016/11/27/a-practical-guide-to-redux/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured){:target="_blank"} Great Article
+12. [Awesome Redux](https://github.com/xgrommx/awesome-redux){:target="_blank"}
 
 ## Boilerplate / Samples
 1. [real-life example of a React project with focus on dataflow management](https://github.com/wix/react-dataflow-example){:target="_blank"}
@@ -69,5 +73,8 @@ tags:
 
 ## Components
 1. [Ant Design of React](https://ant.design/docs/react/introduce){:target="_blank"}
+
+## Yarn Related
+1. [Running Yarn offline](https://yarnpkg.com/blog/2016/11/24/offline-mirror){:target="_blank"}
 
 

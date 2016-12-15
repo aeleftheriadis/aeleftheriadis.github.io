@@ -14,7 +14,8 @@ tags:
   - style guide
   - testing
   - async
-  - es7  
+  - es7
+  - babel
 ---
 
 ## Functional Js Tutorials
@@ -46,6 +47,12 @@ tags:
 ## Style Guide
 1. [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript){:target="_blank"}
 2. [JavaScript Standard Style Guide](https://github.com/feross/standard){:target="_blank"}
+
+## Babel
+1. [babel-preset-env](https://github.com/babel/babel-preset-env){:target="_blank"}
+
+## Flow
+1. [The Fundamentals of Flow in 10-ish Minutes](https://www.youtube.com/watch?v=xWMuAUbXcdQ){:target="_blank"}
 
 ## Packages
 1. [splittable](https://www.npmjs.com/package/splittable){:target="_blank"} Module Bundler
