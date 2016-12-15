@@ -43,6 +43,7 @@ tags:
 9. [React BlueKit](https://github.com/blueberryapps/react-bluekit){:target="_blank"} BlueKit automatically generates a library from your React components with editable props and live preview.
 10. [Rebass](http://jxnblk.com/rebass/){:target="_blank"} 57 Configurable React Stateless Functional UI Components
 11. [jest-codemods](https://www.npmjs.com/package/jest-codemods){:target="_blank"} Codemods for migrating test files to Jest
+12. [React Sortable (HOC)](https://github.com/clauderic/react-sortable-hoc){:target="_blank"} A set of higher-order components to turn any list into an animated, touch-friendly, sortable list.
 
 ## Redux
 1. [Redux Step by Step: A Simple and Robust Workflow for Real Life Apps](https://hackernoon.com/redux-step-by-step-a-simple-and-robust-workflow-for-real-life-apps-1fdf7df46092#.6dvpkfb9l){:target="_blank"}
