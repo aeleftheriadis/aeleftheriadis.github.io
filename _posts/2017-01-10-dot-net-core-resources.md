@@ -66,6 +66,7 @@ tags:
 
 ## Packages
 1. [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core){:target="_blank"}
+2. [JavaScriptServices](https://github.com/aspnet/JavaScriptServices){:target="_blank"}
  
 ## Linux Hosting
 1. [Publish to a Linux Production Environment](https://docs.asp.net/en/latest/publishing/linuxproduction.html){:target="_blank"}
