@@ -10,6 +10,9 @@ tags:
   - js
   - jest
   - windows
+  - nativebase
+  - push notifications
+  - redux saga
 ---
 
 ## Application Structure
@@ -29,6 +32,10 @@ tags:
 
 ## Tutorial
 1. [Build a Coffee Finder App with React Native and the Yelp API](https://appendto.com/2016/11/build-a-coffee-finder-app-with-react-native-and-the-yelp-api/?reddit=){:target="_blank"}
+1. [Todo App in React Native using NativeBase UI Kit](https://blog.nativebase.io/todo-app-in-react-native-using-nativebase-ui-kit-a67ff3e172a9#.o9pvebsh2){:target="_blank"}
+1. [Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.wojyu8mmq){:target="_blank"}
+1. [Avoiding the Keyboard in React Native](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.iskbfuj3u){:target="_blank"}
+1. [React Native Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.5n8i6mw9q){:target="_blank"}
 
 ## Packages
 1. [React Native Toolbox](https://github.com/bamlab/generator-rn-toolbox){:target="_blank"}

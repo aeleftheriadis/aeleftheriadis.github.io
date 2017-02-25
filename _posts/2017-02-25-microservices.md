@@ -9,6 +9,8 @@ tags:
   - microservices
   - api
   - vault
+  - serverless
+  - kubernetes
 ---
 
 ## Platforms
@@ -17,5 +19,13 @@ tags:
 ## Tools
 1. [Vault](https://www.vaultproject.io/){:target="_blank"} A tool for managing secrets.
 2. [Kong](https://getkong.org/){:target="_blank"} Secure, Manage & Extend your APIs and Microservices
+
+## Serverless
+
+1. [Awesome Serverless](https://github.com/anaibol/awesome-serverless#sms-sensing){:target="_blank"}
+
+
+## Kubernetes
+1. [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html){:target="_blank"}
  
 
