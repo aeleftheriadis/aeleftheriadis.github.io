@@ -10,7 +10,6 @@ tags:
   - api
   - vault
   - serverless
-  - kubernetes
 ---
 
 ## Platforms
@@ -25,7 +24,8 @@ tags:
 1. [Awesome Serverless](https://github.com/anaibol/awesome-serverless#sms-sensing){:target="_blank"}
 
 
-## Kubernetes
-1. [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html){:target="_blank"}
+
+
+
  
 

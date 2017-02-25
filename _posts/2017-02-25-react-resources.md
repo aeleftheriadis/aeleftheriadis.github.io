@@ -93,4 +93,7 @@ tags:
 ## Flow
 1. [Flow runtime](https://codemix.github.io/flow-runtime/#/){:target="_blank"}
 
+## E-books
+1. [Hacking with React](http://www.hackingwithreact.com/){:target="_blank"}
+
 
