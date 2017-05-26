@@ -25,6 +25,7 @@ tags:
 
 1. [Awesome Serverless](https://github.com/anaibol/awesome-serverless#sms-sensing){:target="_blank"}
 1. [How To Schedule Posts for Static Site Generators (Jekyll, Hugo, Phenomic etc.)](https://serverless.com/blog/static-site-post-scheduler/){:target="_blank"} @ 2016/03/07
+1. [Serverless Architectures](https://martinfowler.com/articles/serverless.html){:target="_blank"}
 
 
 
