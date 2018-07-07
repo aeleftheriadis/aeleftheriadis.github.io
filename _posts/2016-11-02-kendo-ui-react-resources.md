@@ -2,6 +2,7 @@
 layout: post
 title: "Kendo UI with React.js Resources"
 excerpt: "Kendo UI with React.js usefull resources"
+image: /assets/imgs/kendouireact.jpg
 comments: true
 categories:
   - React.js

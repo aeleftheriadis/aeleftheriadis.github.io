@@ -2,6 +2,7 @@
 layout: post
 title: "Angular 2 Resources"
 excerpt: "Angular 2 usefull resources"
+image: /assets/imgs/angular2.png
 comments: true
 categories:
   - Angular 2
