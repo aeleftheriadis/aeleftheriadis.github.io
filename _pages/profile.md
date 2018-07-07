@@ -57,3 +57,66 @@ I am a problem solver with analytical thinking and I try to find the best tools 
 * Developed php facebook apps and iOS mobile app on Appcelerator Titanium
 * Administrator, setup, configuration of Ubuntu Linux web, email and dns servers, Windows Server
 * Skills and tools: Codeigniter, FuelPHP, Laravel, Wordpress, OpenCart, PHP, HTML, CSS3, Sass, Twitter Bootstrap, Javascript, jQuery, AJAX, SOAP - XML, MySQL, MongoDB, JSON, Git, Heroku, nginx, Apache Tomcat, Appcelerator Titanium, Google APIs, Ruby on Rails, Angular JS, Backbone JS, Redis, Memcache, SEO, Windows Server 2008, IIS, Redmine, CentOS, Heroku. Linux.
+
+## Education & Training
+
+### Master, Applied Informatics / Computer Systems
+
+| ![Panepistimion Makedonias](/assets/imgs/pamak.png "Panepistimion Makedonias") |
+| [Panepistimion Makedonias](http://www.uom.gr/index.php?newlang=eng){:target="_blank"} | Thessaloniki (Greece) | 2008 – 2011 |
+
+#### Degree **8/10**
+
+#### Main studies
+
+* Programming Languages (C++, Java, PHP,Javascript, HTML,MySQL,Prolog)
+* Computer Databases - Decision Support, Data Mining
+* Artificial Inteligence, Computer and Networks
+* Multimedia and Internet Technologies, Mobile Computing Systems, Graphics and Virtual Reality, Advanced Software Technology
+
+### Bachelor, Applied Informatics
+
+| ![Panepistimion Makedonias](/assets/imgs/pamak.png "Panepistimion Makedonias") |
+| [Panepistimion Makedonias](http://www.uom.gr/index.php?newlang=eng){:target="_blank"} | Thessaloniki (Greece) | 2001 – 2008 |
+
+#### Degree **6/10**
+
+#### Main studies
+
+* Programming Languages (C, Pascal, Java, PHP, HTML,SQL)
+* Programming Techniques (Data Structures, Algorithms, Procedure and Object Oriented Programming, Software Technology)
+* Computer Architecture, Operating Systems, Computer Networks, Computer Databases, Algorithms of Linear Optimization, Artificial Intelligence 
+* Computer and Network Security
+
+## Certifications
+
+* Cisco CCNA Routing and Switching (Date Jul 2013 – Jul 2016) (License CSCO12282098)
+* edX Honor Code Certificate for Introduction to Linux (Date Sep 2015 – Present) (License ce7e97748e9d427cb80367f5b11b1c1b)
+* Code School ES2015: The Shape of JavaScript to Come
+* Code School ES2015: The Shape of JavaScript to Come
+* Code School Forging Ahead with ASP.NET Core
+* Code School JavaScript Road Trip Part 1
+* Code School Powering Up With React
+* Code School Rails for Zombies Redux
+* Code School Shaping up with Angular.js
+* Code School Staying Sharp With AngularJS
+* Code School Try .Net MVC
+* Code School Try Ruby
+* Code School Try SQL
+* Code School Try jQuery
+
+## Languages
+
+Greek (Native), English
+
+## Conferences
+
+* [DevIt](https://devitconf.org/){:target="_blank"} 2016, 2017, 2018
+* [Voxxed Days Athens](https://voxxeddays.com/athens/) 2017
+* [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) 2017
+* [Droidcon Greece](https://droidcon.gr/) 2015
+
+| ![Meetups](https://secure.meetupstatic.com/s/img/5455565085016210254/logo/svg/logo--script.svg "Meetups") |
+|| | [Meetup Profile](https://www.meetup.com/members/187466502/){:target="_blank"} | ||
+
+
