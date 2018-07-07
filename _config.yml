@@ -55,6 +55,7 @@ rss:                feed
 #xmpp:              username@server.com
 #hackernews:        username
 #behance:           username
+bitbucket:          aeleftheriadis
 
 # Gems
 gems:
