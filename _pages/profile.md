@@ -15,7 +15,7 @@ I am a problem solver with analytical thinking and I try to find the best tools 
 
 ### Senior Full Stack .Net Web Developer/ Delivery Manager
 
-|| | ![epsilonnet logo](/assets/imgs/epsilonnet.png "Epsilon Net") | ||
+| | ![epsilonnet logo](/assets/imgs/epsilonnet.png "Epsilon Net") | |
 | [Epsilon Net S.A.](https://www.epsilonnet.gr/?lang=en){:target="_blank"} | Thessaloniki (Greece) | May 2016 – Present |
 
 * ​I am leading the Epsilon Cloud web dev team building web enterprise applications in financial sector.
@@ -37,7 +37,7 @@ I am a problem solver with analytical thinking and I try to find the best tools 
 
 ### Front End Engineer
 
-|| | ![Its logo](/assets/imgs/its.png "ITS") | ||
+| | ![Its logo](/assets/imgs/its.png "ITS") | |
 | [ITS S.A.](http://www.its.net.gr/){:target="_blank"} | Thessaloniki (Greece) | Oct 2014 – Apr 2016 |
 
 * Part of a team of 5 devs working on WRM Retail Platform
@@ -49,7 +49,7 @@ I am a problem solver with analytical thinking and I try to find the best tools 
 
 ### Full Stack Web / Mobile Developer, Project Manager
 
-|| | ![Its logo](/assets/imgs/dwhite.png "ITS") | ||
+| | ![Its logo](/assets/imgs/dwhite.png "ITS") | |
 | [Dwhite](https://www.dwhite.eu/home-en/){:target="_blank"} | Thessaloniki (Greece) | Feb 2012 – Oct 2014 |
 
 * Developed web sites with wordpress cms, e-commerce web sites with Opencart and custom web applications with Codeigniter, FuelPHP and Laravel, including B2B app with ERP connection, insurance broker application, holiday booking application, citizen's service app, and holiday app
@@ -61,7 +61,7 @@ I am a problem solver with analytical thinking and I try to find the best tools 
 
 ### Master, Applied Informatics / Computer Systems
 
-|| | ![Panepistimion Makedonias](/assets/imgs/pamak.png "Panepistimion Makedonias") | ||
+| | ![Panepistimion Makedonias](/assets/imgs/pamak.png "Panepistimion Makedonias") | |
 | [Panepistimion Makedonias](http://www.uom.gr/index.php?newlang=eng){:target="_blank"} | Thessaloniki (Greece) | 2008 – 2011 |
 
 #### Degree **8/10**
@@ -75,7 +75,7 @@ I am a problem solver with analytical thinking and I try to find the best tools 
 
 ### Bachelor, Applied Informatics
 
-|| | ![Panepistimion Makedonias](/assets/imgs/pamak.png "Panepistimion Makedonias") | ||
+| | ![Panepistimion Makedonias](/assets/imgs/pamak.png "Panepistimion Makedonias") | |
 | [Panepistimion Makedonias](http://www.uom.gr/index.php?newlang=eng){:target="_blank"} | Thessaloniki (Greece) | 2001 – 2008 |
 
 #### Degree **6/10**
@@ -115,7 +115,7 @@ Greek (Native), English
 * [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) 2017
 * [Droidcon Greece](https://droidcon.gr/) 2015
 
-|| | ![Meetups](https://secure.meetupstatic.com/s/img/5455565085016210254/logo/svg/logo--script.svg | width=72 "Meetups") | ||
-|| | [Meetup Profile](https://www.meetup.com/members/187466502/){:target="_blank"} | ||
+| | ![Meetups](https://secure.meetupstatic.com/s/img/5455565085016210254/logo/svg/logo--script.svg | width=72 "Meetups") | |
+| | [Meetup Profile](https://www.meetup.com/members/187466502/){:target="_blank"} | |
 
 
