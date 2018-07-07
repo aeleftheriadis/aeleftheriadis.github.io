@@ -13,6 +13,7 @@ tags:
   - nativebase
   - push notifications
   - redux saga
+  - ignite-cli  
 ---
 
 ## Application Structure
@@ -22,6 +23,7 @@ tags:
 ## Testing
 
 1. [Jest](https://facebook.github.io/jest/docs/tutorial-react-native.html){:target="_blank"}
+1. [Learn TDD in React Native (Added at 2018-07-07)](https://learntdd.in/react-native/){:target="_blank"}
 
 ## Windows Tutorial
 
@@ -56,3 +58,11 @@ tags:
 
 1. [React Native Express](http://www.reactnativeexpress.com/){:target="_blank"}
 
+## Tools
+
+1. [Ignite CLI (Added at 2018-07-07)](https://github.com/infinitered/ignite){:target="_blank"}
+1. [Ignite IR Boilerplate ("Andross") (Added at 2018-07-07)](https://github.com/infinitered/ignite-ir-boilerplate-andross){:target="_blank"}
+
+## Release Management
+
+1. [bitrise (Added at 2018-07-07)](https://app.bitrise.io){:target="_blank"}

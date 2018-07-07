@@ -70,6 +70,10 @@ tags:
 1. [Awesome Redux](https://github.com/xgrommx/awesome-redux){:target="_blank"}
 1. [Practical Redux, Part 3: Project Planning and Setup](http://blog.isquaredsoftware.com/2016/11/practical-redux-part-3-project-planning-and-setup/){:target="_blank"}
 
+## Redux Saga
+
+1. [Using Saga Helpers (Added at 2018-07-07)](https://redux-saga.js.org/docs/basics/UsingSagaHelpers.html){:target="_blank"}
+
 ## Boilerplate / Samples
 
 1. [real-life example of a React project with focus on dataflow management](https://github.com/wix/react-dataflow-example){:target="_blank"}
@@ -107,8 +111,8 @@ tags:
 ## E-books
 
 1. [Hacking with React](http://www.hackingwithreact.com/){:target="_blank"}
+1. [React in patterns (Added at 2018-07-07)](https://krasimir.gitbooks.io/react-in-patterns/content/){:target="_blank"}
 
 ## SSR
 
 1. [Faster React SSR With Rapscallion](http://formidable.com/blog/2017/introducing-rapscallion/){:target="_blank"}
-
