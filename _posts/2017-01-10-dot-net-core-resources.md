@@ -2,6 +2,7 @@
 layout: post
 title: ".Net Core Resources"
 excerpt: ".Net Core usefull resources"
+image: /assets/imgs/netcore.jpg
 comments: true
 categories:
   - .Net
