@@ -2,6 +2,7 @@
 layout: post
 title: "Docker Resources"
 excerpt: "Docker usefull resources"
+image: /assets/imgs/docker.png
 comments: true
 categories:
   - Docker

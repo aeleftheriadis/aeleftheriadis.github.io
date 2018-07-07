@@ -2,6 +2,7 @@
 layout: post
 title: "Electron Resources"
 excerpt: "Electron usefull resources"
+image: /assets/imgs/electron.jpg
 comments: true
 categories:
   - Electron

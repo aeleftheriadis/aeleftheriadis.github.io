@@ -2,6 +2,7 @@
 layout: post
 title: "Javascript Resources"
 excerpt: "Javascript usefull resources"
+image: /assets/imgs/js.png
 comments: true
 categories:
   - Javascript
