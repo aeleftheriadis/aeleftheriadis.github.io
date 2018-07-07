@@ -2,6 +2,7 @@
 layout: post
 title: "API Resources"
 excerpt: "API usefull resources"
+image: /assets/imgs/api.jpg
 comments: true
 categories:
   - API
