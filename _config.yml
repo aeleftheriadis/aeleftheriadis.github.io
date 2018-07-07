@@ -56,6 +56,7 @@ rss:                feed
 #hackernews:        username
 #behance:           username
 bitbucket:          aeleftheriadis
+meetup:             187466502
 
 # Gems
 gems:
