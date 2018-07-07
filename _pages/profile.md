@@ -13,6 +13,7 @@ I am a problem solver with analytical thinking and I try to find the best tools 
 
 ## Experience
 
-![epsilonnet log](/assets/imgs/epsilonnet.png "Epsilon Net") | [Epsilon Net S.A.](https://www.epsilonnet.gr){:target="_blank"} | Thessaloniki (Greece) | May 2016 – Present |
+| ![epsilonnet log](/assets/imgs/epsilonnet.png "Epsilon Net") |
+| [Epsilon Net S.A.](https://www.epsilonnet.gr){:target="_blank"} Thessaloniki (Greece) May 2016 – Present |
 
 ### Senior Full Stack .Net Web Developer/ Delivery Manager
