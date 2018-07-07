@@ -2,7 +2,6 @@
 layout: post
 title: "Raspberry Pi Resources"
 excerpt: "Raspberry Pi usefull resources"
-image: /assets/imgs/rp.jpg
 comments: true
 categories:
   - IOT
