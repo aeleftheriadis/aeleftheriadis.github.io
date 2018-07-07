@@ -2,6 +2,7 @@
 layout: post
 title: "React Native Resources"
 excerpt: "React Native useful resources"
+image: /assets/imgs/reactnative.png
 comments: true
 categories:
   - React Native

@@ -2,7 +2,7 @@
 layout: post
 title: "React.js Resources"
 excerpt: "React.js usefull resources"
-image: /assets/imgs/reactjs.jpg
+image: /assets/imgs/reactjs.png
 comments: true
 categories:
   - React.js
