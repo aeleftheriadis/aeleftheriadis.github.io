@@ -114,3 +114,9 @@ Greek (Native), English
 * [Voxxed Days Athens](https://voxxeddays.com/athens/) 2017
 * [Voxxed Days Thessaloniki](https://voxxeddays.com/thessaloniki/) 2017
 * [Droidcon Greece](https://droidcon.gr/) 2015
+
+![Meetups](/assets/imgs/meetup.png "Meetups")
+
+[Meetup Profile](https://www.meetup.com/members/187466502/){:target="_blank"}
+
+
