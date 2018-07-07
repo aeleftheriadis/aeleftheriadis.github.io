@@ -2,6 +2,7 @@
 layout: post
 title: "Node.js Resources"
 excerpt: "Node.js usefull resources"
+image: /assets/imgs/nodejs.png
 comments: true
 categories:
   - Node.js
