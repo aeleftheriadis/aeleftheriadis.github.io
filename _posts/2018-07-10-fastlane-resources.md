@@ -19,5 +19,5 @@ tags:
 
 ## Fastlane Docs Links
 
-1. [How to Use React with Visual Studio and ASP.NET Web API](https://blog.pusher.com/how-to-use-react-with-visual-studio-and-asp-net-web-api/){:target="_blank"}
-
+1. [Getting started with fastlane for iOS](https://docs.fastlane.tools/getting-started/ios/setup/){:target="_blank"}
+1. [Getting started with fastlane for iOS](https://docs.fastlane.tools/getting-started/ios/setup/){:target="_blank"}
