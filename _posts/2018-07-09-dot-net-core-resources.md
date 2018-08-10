@@ -31,6 +31,7 @@ tags:
   - web services
   - kubernetes
   - docker
+  - ddd
 ---
 
 ## API / Angular 2
@@ -99,3 +100,7 @@ tags:
 ## Kubernetes
 
 1. [Handling settings and Environment Variables of your .NET Core 2 application hosted in a Docker container during development and on Kubernetes (Helm to the resque) (Added at 2018-07-09)](https://pascalnaber.wordpress.com/2017/11/29/handling-settings-and-environment-variables-of-your-net-core-2-application-hosted-in-a-docker-container-during-development-and-on-kubernetes-helm-to-the-resque/){:target="_blank"}
+
+## DDD
+
+1.[Designing a DDD-oriented microservice (Added at 2018-08-10)](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice){:target="_blank"}
