@@ -32,6 +32,9 @@ tags:
   - kubernetes
   - docker
   - ddd
+  - http caching
+  - http Rate Limit
+  - distributed caching
 ---
 
 ## API / Angular 2
@@ -55,6 +58,9 @@ tags:
 ## Caching
 
 1. [InMemory Caching in ASP.NET MVC 6](http://www.dotnetcurry.com/aspnet-mvc/1246/inmemory-caching-aspnet-mvc-6-core){:target="_blank"}
+1. [ASP.NET Core Caching in Practice (Added at 2018-08-31)](https://rehansaeed.com/asp-net-core-caching-in-practice/){:target="_blank"}
+1. [Work with a distributed cache in ASP.NET Core (Added at 2018-08-31)](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-2.1){:target="_blank"}
+
 
 ## Tutorials
 
@@ -104,3 +110,8 @@ tags:
 ## DDD
 
 1.[Designing a DDD-oriented microservice (Added at 2018-08-10)](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice){:target="_blank"}
+
+## HTTP Headers
+
+1. [Send ETag headers in ASP.NET Core (Added at 2018-08-10)](https://madskristensen.net/blog/send-etag-headers-in-aspnet-core/){:target="_blank"}
+1. [AspNetCoreRateLimit @ Github (Added at 2018-08-10)](https://github.com/stefanprodan/AspNetCoreRateLimit){:target="_blank"}
