@@ -25,6 +25,8 @@ tags:
   - testing
   - design patterns
   - F#
+  - polly
+  - retry pattern
 ---
 
 ## EF6 / MVC5
@@ -105,4 +107,8 @@ tags:
 ## Xamarin
 
 1. [Developing Enterprise Apps using Xamarin.Forms](https://blog.xamarin.com/developing-enterprise-apps-using-xamarin-forms/){:target="_blank"}
+
+## Retry Pattern
+
+1. [Implementing the retry pattern in c sharp using Polly (Added at 2018-09-17)](https://alastaircrabtree.com/implementing-the-retry-pattern-using-polly/){:target="_blank"}
 
