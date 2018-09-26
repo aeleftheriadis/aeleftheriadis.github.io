@@ -15,6 +15,7 @@ tags:
   - push notifications
   - redux saga
   - ignite-cli  
+  - react-navigation
 ---
 
 ## Application Structure
@@ -45,6 +46,7 @@ tags:
 1. [Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.wojyu8mmq){:target="_blank"}
 1. [Avoiding the Keyboard in React Native](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.iskbfuj3u){:target="_blank"}
 1. [React Native Push Notifications with OneSignal](https://medium.com/differential/react-native-push-notifications-with-onesignal-9db6a7d75e1e#.5n8i6mw9q){:target="_blank"}
+1.[Simple Recipe to Build a Theme App in React Native (Added at 2018-09-26](https://hackernoon.com/simple-recipe-to-build-a-theme-app-in-react-native-8e2456f81bc5){:target="_blank"}
 
 ## Packages
 
@@ -54,6 +56,7 @@ tags:
 ## Sample Apps
 
 1. [movieapp](https://github.com/JuneDomingo/movieapp){:target="_blank"}
+1. [30 Days of React Native (Added at 2018-09-26)](https://github.com/amandeepmittal/30daysofReactNative){:target="_blank"}
 
 ## Books
 
