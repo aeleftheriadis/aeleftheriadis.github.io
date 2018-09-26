@@ -27,6 +27,7 @@ tags:
   - F#
   - polly
   - retry pattern
+  - linq
 ---
 
 ## EF6 / MVC5
@@ -112,3 +113,6 @@ tags:
 
 1. [Implementing the retry pattern in c sharp using Polly (Added at 2018-09-17)](https://alastaircrabtree.com/implementing-the-retry-pattern-using-polly/){:target="_blank"}
 
+## Linq
+
+1. [LINQ Samples (Added at 2018-09-26)](https://linqsamples.com/){:target="_blank"}
