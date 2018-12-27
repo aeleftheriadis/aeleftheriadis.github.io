@@ -21,6 +21,7 @@ tags:
   - webpack
   - este
   - flow
+  - hooks
 ---
 
 ## Design Patterns
@@ -118,3 +119,7 @@ tags:
 ## SSR
 
 1. [Faster React SSR With Rapscallion](http://formidable.com/blog/2017/introducing-rapscallion/){:target="_blank"}
+
+## Hooks
+
+1. [useHooks Added at 2018-12-27)](https://usehooks.com/){:target="_blank"} One new React Hook recipe every day
