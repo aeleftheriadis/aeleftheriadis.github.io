@@ -28,6 +28,7 @@ tags:
   - polly
   - retry pattern
   - linq
+  - httpclient
 ---
 
 ## EF6 / MVC5
@@ -116,3 +117,7 @@ tags:
 ## Linq
 
 1. [LINQ Samples (Added at 2018-09-26)](https://linqsamples.com/){:target="_blank"}
+
+## HttpClient
+
+1. [Using Flurl to easily build URLs and make testable HttpClient calls in .NET (Added at 2018-12-27)](https://www.hanselman.com/blog/UsingFlurlToEasilyBuildURLsAndMakeTestableHttpClientCallsInNET.aspx){:target="_blank"}
