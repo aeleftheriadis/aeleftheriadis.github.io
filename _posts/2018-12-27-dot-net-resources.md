@@ -91,6 +91,7 @@ tags:
 1. [CSharpVerbalExpressions](https://github.com/VerbalExpressions/CSharpVerbalExpressions){:target="_blank"} CSharp Regular Expressions made easy
 1. [Fluent Assertions](http://www.fluentassertions.com/){:target="_blank"} With Fluent Assertions, the assertions look beautiful, natural and most importantly, extremely readable.
 1. [dotnetify](http://dotnetify.net/react/){:target="_blank"} Simple, lightweight, yet powerful way to build real-time React + C# .NET web apps
+1. [Flurl](https://flurl.io/){:target="_blank"} Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library for .NET.
 
 ## Testing
 
