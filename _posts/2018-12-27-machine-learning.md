@@ -34,3 +34,7 @@ tags:
 ## Cources
 
 1. [Machine Learning with TensorFlow on Google Cloud Platform Specialization (Added at 2018-12-27)](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?action=enroll&authMode=login){:target="_blank"}
+
+## Videos
+
+1. [Global Digital Conference - Let's Talk AI (Added at 2018-12-27](https://cloudonair.withgoogle.com/events/data-ai?mkt_tok=eyJpIjoiTTJWa01HRTFPRFk0WXpNdyIsInQiOiI1alpiQzJqMWtXbmFiaStjYjdsalVlaDA3eVJiMCtvd25BcGtuc3RhZ1kwZFJUTFhxWVpkbWNncHRMS29CSTNlVjBKOXNYZUREdGNLNmltTG5VSUNHMklTZndOdkQ5OXUrbnB4RlRQUlB5dlwvRktiVDlKekZcL0F0XC9cLzZKTm1Qa2Z2dTVhbUY0MzlycFRcLzAwTGQ2ZVJtQT09In0%3D){:target="_blank"}
