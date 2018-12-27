@@ -88,7 +88,8 @@ tags:
 ## Packages
 
 1. [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core){:target="_blank"}
-2. [JavaScriptServices](https://github.com/aspnet/JavaScriptServices){:target="_blank"}
+1. [JavaScriptServices](https://github.com/aspnet/JavaScriptServices){:target="_blank"}
+1. [Refit: The automatic type-safe REST library for .NET Core, Xamarin and .NET (Added at 2018-12-27](https://github.com/reactiveui/refit){:target="_blank"}
  
 ## Linux Hosting
 
