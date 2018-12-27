@@ -127,3 +127,7 @@ tags:
 ## Hangfire
 
 1. [Writing unit tests (Added at 2018-12-27)](http://docs.hangfire.io/en/latest/background-methods/writing-unit-tests.html){:target="_blank"}
+
+## Headless CMS
+
+1. [Headless CMS and Decoupled CMS in .NET Core (Added at 2018-12-27)](https://www.hanselman.com/blog/HeadlessCMSAndDecoupledCMSInNETCore.aspx){:target="_blank"}
