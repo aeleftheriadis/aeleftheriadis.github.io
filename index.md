@@ -3,7 +3,7 @@ layout: home
 ---
 # Hello there
 
-This is my personal blog. I'm a professional Web Developer/Mobile with 6 years experience
+This is my personal blog. I'm a professional Web/Mobile Developer with 6 years experience
 
 Living in Thessaloniki, Greece.
 
