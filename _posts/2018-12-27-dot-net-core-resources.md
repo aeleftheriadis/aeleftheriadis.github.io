@@ -35,6 +35,7 @@ tags:
   - http caching
   - http Rate Limit
   - distributed caching
+  - background services
 ---
 
 ## API / Angular 2
@@ -115,3 +116,6 @@ tags:
 
 1. [Send ETag headers in ASP.NET Core (Added at 2018-08-10)](https://madskristensen.net/blog/send-etag-headers-in-aspnet-core/){:target="_blank"}
 1. [AspNetCoreRateLimit @ Github (Added at 2018-08-10)](https://github.com/stefanprodan/AspNetCoreRateLimit){:target="_blank"}
+
+## Background Services
+1. [Background tasks with hosted services in ASP.NET Core (Added at 2018-12-27)](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-2.1){:target="_blank"}
