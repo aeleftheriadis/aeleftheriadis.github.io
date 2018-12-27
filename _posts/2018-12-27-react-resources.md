@@ -88,7 +88,7 @@ tags:
 ## Tools
 
 1. [React UI Components](https://github.com/facebook/react/wiki/Complementary-Tools#ui-components){:target="_blank"}
-1. [Guppy A friendly application manager and task runner for React.js (Added at 2018-12-27)](https://github.com/joshwcomeau/guppy){:target="_blank"}
+1. [Guppy (Added at 2018-12-27)](https://github.com/joshwcomeau/guppy){:target="_blank"} A friendly application manager and task runner for React.js
 
 ## Guide
 
