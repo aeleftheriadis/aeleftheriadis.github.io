@@ -37,6 +37,7 @@ tags:
   - distributed caching
   - background services
   - hangfire
+  - headless cms
 ---
 
 ## API / Angular 2
@@ -131,3 +132,7 @@ tags:
 ## Headless CMS
 
 1. [Headless CMS and Decoupled CMS in .NET Core (Added at 2018-12-27)](https://www.hanselman.com/blog/HeadlessCMSAndDecoupledCMSInNETCore.aspx){:target="_blank"}
+
+## Performance
+
+1. [Bringing .NET application performance analysis to Linux (Added at 2018-12-27)](https://lttng.org/blog/2018/08/28/bringing-dotnet-perf-analysis-to-linux/){:target="_blank"}
