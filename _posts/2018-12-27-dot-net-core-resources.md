@@ -119,3 +119,4 @@ tags:
 
 ## Background Services
 1. [Background tasks with hosted services in ASP.NET Core (Added at 2018-12-27)](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services?view=aspnetcore-2.1){:target="_blank"}
+1. [Implementing background tasks in .NET Core 2.x webapps or microservices with IHostedService and the BackgroundService class (Added at 2018-12-27)](https://blogs.msdn.microsoft.com/cesardelatorre/2017/11/18/implementing-background-tasks-in-microservices-with-ihostedservice-and-the-backgroundservice-class-net-core-2-x/){:target="_blank"}
