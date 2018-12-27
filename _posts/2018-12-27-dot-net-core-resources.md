@@ -38,6 +38,7 @@ tags:
   - background services
   - hangfire
   - headless cms
+  - metrics
 ---
 
 ## API / Angular 2
@@ -136,3 +137,7 @@ tags:
 ## Performance
 
 1. [Bringing .NET application performance analysis to Linux (Added at 2018-12-27)](https://lttng.org/blog/2018/08/28/bringing-dotnet-perf-analysis-to-linux/){:target="_blank"}
+
+## Metrics
+
+1. [App Metrics (Added at 2018-12-27)](https://www.app-metrics.io/){:target="_blank"} App Metrics is an open-source and cross-platform .NET library used to record metrics within an application
