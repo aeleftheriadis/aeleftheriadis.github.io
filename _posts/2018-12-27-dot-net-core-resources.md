@@ -103,6 +103,7 @@ tags:
 ## Web services
 
 1. [Exploring ServiceStack's simple and fast web services on .NET Core](http://www.hanselman.com/blog/ExploringServiceStacksSimpleAndFastWebServicesOnNETCore.aspx){:target="_blank"}
+1. [Using ASP.NET Core 2.1's HttpClientFactory with Refit's REST library (Added at 2018-12-27)](https://www.hanselman.com/blog/UsingASPNETCore21sHttpClientFactoryWithRefitsRESTLibrary.aspx){:target="_blank"}
 
 ## Kubernetes
 
