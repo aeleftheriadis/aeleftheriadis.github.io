@@ -30,3 +30,4 @@ tags:
 - [.Net Core Custom Authentication using API Keys with Identity Server 4](https://stackoverflow.com/questions/55151764/net-core-custom-authentication-using-api-keys-with-identity-server-4)
 - [Traceable](https://www.traceable.ai/)
 - [REST API URI Naming Conventions and Best Practices](https://restfulapi.net/resource-naming/)
+- [Adding API key Authentication in .NET (2024-09-14)](https://nickchapsas.com/adding-api-key-auth-in-dotnet/)
