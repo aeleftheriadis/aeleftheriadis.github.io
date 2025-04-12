@@ -7,9 +7,9 @@ permalink: /profile.html
 
 # Athanasios Eleftheriadis Profile
 
-## Senior Full Stack Web Developer
+## Software Architect
 
-I am a problem solver with analytical thinking and I try to find the best tools to solve the problem. I'm open to new ideas and I stand up to forward my ideas. I have65 years experience as a web developer and I have a strong passion for web. I'm a continuous learner and I'm currently learning and strengthen my knowledge in areas like C#, Software Design Patterns, Node.js, React.js, ReactNnative, Docker, Chef, Vagrant, Devops, Container Orchestration, Kubernetes and Big Data.
+I am a problem solver with analytical thinking and I try to find the best tools to solve the problem. I'm open to new ideas and I stand up to forward my ideas. I have 10+ years experience as a web developer and I have a strong passion for web. I'm a continuous learner and I'm currently learning and strengthen my knowledge in areas like C#, Software Design Patterns, Node.js, React.js, ReactNnative, Docker, Chef, Vagrant, Devops, Container Orchestration, Kubernetes and Big Data.
 
 ## Experience
 
