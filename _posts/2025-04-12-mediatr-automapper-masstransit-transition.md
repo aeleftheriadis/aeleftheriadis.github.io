@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Mediatr Automapper MassTransit Transition"
@@ -10,7 +9,6 @@ categories:
 tags: 
   - netcore
 ---
-
 
 # Mediatr Automapper MassTransit Transition
 
