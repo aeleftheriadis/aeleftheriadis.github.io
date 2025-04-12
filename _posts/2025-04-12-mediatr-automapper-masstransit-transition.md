@@ -4,10 +4,10 @@ title: "Mediatr Automapper MassTransit Transition"
 excerpt: "Mediatr Automapper MassTransit Transition"
 comments: true
 categories:
-  - netcore
+  - .net core
   - oss
 tags: 
-  - netcore
+  - .net core
 ---
 
 # Mediatr Automapper MassTransit Transition
