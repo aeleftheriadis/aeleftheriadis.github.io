@@ -1,4 +1,21 @@
-
+---
+layout: post
+title: "Blazor SSR and C# 11: Feature Adoption Guide"
+excerpt: "Blazor SSR and C# 11: Feature Adoption Guide"
+comments: true
+categories:
+  - net11
+  - core
+  - net
+  - blazor
+  - ssr
+tags: 
+  - blazor
+  - core
+  - net
+  - net11
+  - ssr
+---
 
 # Blazor SSR and C# 11: Feature Adoption Guide
 
