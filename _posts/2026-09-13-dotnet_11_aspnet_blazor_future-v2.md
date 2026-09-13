@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Deep Dive into the Future of ASP.NET Core & Blazor in .NET 11"
-excerpt: "A Deep Dive into the Future of ASP.NET Core & Blazor in .NET 11s"
+excerpt: "A Deep Dive into the Future of ASP.NET Core & Blazor in .NET 11"
 comments: true
 categories:
   - net11
@@ -12,7 +12,7 @@ tags:
   - blazor
   - core
   - net
-    net11
+  - net11
 ---
 
 # A Deep Dive into the Future of ASP.NET Core & Blazor in .NET 11
